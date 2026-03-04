@@ -16,7 +16,7 @@ Most of the projects you'll find here are **hobby projects** where I explore how
 
 ### CODToUE5
 
-A hobby project that explores importing **Call of Duty C2M map data into Unreal Engine 5**, For various modding uses, especially vr
+A hobby project that explores importing **Call of Duty C2M map data into Unreal Engine 5**, For various modding uses, especially VR
 
 The tool reads map data and reconstructs the level inside UE5 by generating meshes, materials, and lighting using Python scripts.
 
